@@ -1,0 +1,47 @@
+.auth-card {
+    border-radius: 15px !important;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+body {
+    background: #f3f4f6;
+}
+
+.btn-login {
+    background: #7bb026 !important;
+    border-color: #7bb026 !important;
+    border-radius: 15px;
+}
+
+.auth-form-text {
+    color: #a39e93;
+    font-size: 14px;
+}
+
+.form-control {
+    border-radius: 15px;
+}
+
+.new-user-question {
+    font-size: 12px;
+}
+
+.auth-link {
+    color: #63921a;
+    font-size: 12px;
+    font-weight: 700;
+}
+
+.auth-form-title {
+    color: #7bb026;
+    font-weight: 700;
+}
+
+.form-group {
+    margin-bottom: 5px;
+}
+
+.policies {
+    font-size: 12px;
+}

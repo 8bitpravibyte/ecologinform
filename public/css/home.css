@@ -1,0 +1,57 @@
+body {
+    background: #f3f4f6;
+}
+
+.card-header {
+    background: #ffffff;
+    font-weight: 700;
+    border-top-left-radius: 15px !important;
+    border-top-right-radius: 15px !important;
+}
+
+.card-body {
+    background: #faf9f7;
+}
+
+.progress {
+    height: 9px;
+    background: #c7ea8f;
+}
+
+.bg-success {
+    background: #7bb026 !important;
+}
+
+.card-into-card
+{
+    background: #ffffff;
+    border-radius: 10px;
+    font-size: 12px;
+    color: #858280;
+}
+
+.card-into-card h3 {
+    color: black;
+}
+
+.activity {
+    position: absolute;
+    top: -39px;
+}
+.card-footer  {
+    position: relative;
+}
+
+.card-footer .activity a {
+    color: black;
+    padding-bottom: 15px;
+}
+
+.card-footer .activity a:hover {
+    text-decoration: none;
+    opacity: 0.7;
+}
+
+.card-footer .activity .active {
+    border-bottom: 2px solid #7bb026;
+}
